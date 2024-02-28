@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1577813305 source:c:\users\hala\desktop\morse code\main.cpp
-	<iostream>
-	<string>
-	<bits/stdc++.h>
-
